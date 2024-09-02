@@ -1,1 +1,0 @@
-This repository is created for practicing and exploring various technologies. It contains solutions to different problems using a range of technologies. The goal is to experiment, learn, and develop skills across multiple domains.
